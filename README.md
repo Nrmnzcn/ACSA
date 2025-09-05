@@ -5,7 +5,7 @@ In this study, we propose a novel method referred to as the Artificial Circulato
 
 ### Inspiration
 <div align="center">
-    <img src="https://github.com/Nrmnzcn/ACSA-Algorithm/blob/main/image/Inspiration.jpg" alt="Inspiration" width="700" height="500">
+    <img src="https://github.com/Nrmnzcn/ACSA/blob/main/image/Inspiration.jpg" alt="Inspiration" width="700" height="500">
 </div>
 
 ### Workflow 
@@ -13,7 +13,7 @@ In this study, we propose a novel method referred to as the Artificial Circulato
 The ACSA, as mentioned earlier, is an algorithm that simulates the functioning of the circulatory system through various control mechanisms. The algorithm can be illustrated below. 
 
 <div align="center">
-    <img src="https://github.com/Nrmnzcn/ACSA-Algorithm/blob/main/image/Work-flow.jpg" alt="Workflow" width="450" height="800">
+    <img src="https://github.com/Nrmnzcn/ACSA/blob/main/image/Work-flow.jpg" alt="Workflow" width="450" height="800">
 </div>
 
 Similar to other metaheuristic approaches, the ACSA begins by creating a random initial population. Each type of regulator iteratively modifies its candidate solutions based on its specific objective function, utilizing mathematical calculations and parameters. This process improves the quality of potential solutions with each update. After every iteration of solution modifications, the algorithm checks the positions of the population to ensure that the solutions remain within the defined boundaries of the search space. If any solution is found outside the specified area, it is constrained to stay within the established search limits. During each iteration, the fitness values of the regulators are evaluated in relation to the objective function. The regulator with the highest fitness value is then recognized as the optimal solution within the population.
