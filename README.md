@@ -46,18 +46,8 @@ If you use this algorithm in your research, please cite the following paper:
 }
 
 ```
-### Libraries and Dependencies
 
-The ACSA algorithm was developed using the following library and version:
-
-- [Mealpy](https://github.com/thieu1995/mealpy) - versions 3.0.1
-
-Additionally, the following libraries were utilized during the testing of the ACSA algorithm for benchmark functions and engineering design problems:
-
-- [Opfunu](https://github.com/thieu1995/opfunu) - versions 1.0.1
-- [Enoppy](https://github.com/thieu1995/enoppy) - versions 0.1.1
-
-### Example
+### Example for Mealpy version of ACSA
 
 ```python
 # Import necessary libraries
